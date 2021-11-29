@@ -1,1 +1,4 @@
 theme: jekyll-theme-dinky
+title: Title
+description: Description
+show_downloads: true
