@@ -5,5 +5,11 @@
 
 * 👉 [Download data](https://drive.google.com/file/d/1SNdo7-XZRXfUNuqCH867HoJGwuNIkPU2/view?usp=sharing) (⚠️ heavy file) 
 
-## Empirical Evaluation and Results
+## Commit-Aware Mutation Testing
+
+<p float="center">
+  <img src="./data/figures/Approach_figure_example_v3.png" title="Approach"/>
+</p>
+
+## Empirical Results
 
